@@ -31,11 +31,11 @@ public class Inventario {
     public boolean eliminarProducto(int id) {
     for (int i = 0; i < contador; i++) {
         if (productos[i].getId() == id) {
-            // Desplazar los elementos hacia la izquierda
+            
             for (int j = i; j < contador - 1; j++) {
                 productos[j] = productos[j + 1];
             }
-            productos[contador - 1] = null; // Eliminar el último duplicado
+            productos[contador - 1] = null; // Eliminar el último (se duplicaban al eliminar un objeto)
             contador--;
             return true;
         }

@@ -31,7 +31,7 @@ Se propone una aplicación de consola desarrollada en Java, basada en programaci
 📍Uso de clases separadas y bien estructuradas para lograr un código modular, mantenible y escalable.
 📍Interfaz por consola con menú interactivo y navegación amigable.
 _______________________________________
-```
+
 🧩 Problema Detectado
 Muchas pequeñas empresas o técnicos (talleres, papelerías, ferreterías, tiendas de barrio, etc.) no cuentan con software de gestión porque:
 📍Los sistemas profesionales son caros o complejos.
@@ -76,7 +76,7 @@ Precio fijo de instalación: $10,000 - Premium $30,000
 📍Creales sus bases de datos para que guarde informacion cuando se cierre
 📍Subirlo a plataformas
 📍Hacer una demo
-
+```
 ## 🧱Explicación de clases y métodos principales
 ```ruby
 📄 Producto.java

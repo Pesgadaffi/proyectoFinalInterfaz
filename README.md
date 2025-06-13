@@ -32,6 +32,51 @@ Se propone una aplicación de consola desarrollada en Java, basada en programaci
 📍Interfaz por consola con menú interactivo y navegación amigable.
 _______________________________________
 ```
+🧩 Problema Detectado
+Muchas pequeñas empresas o técnicos (talleres, papelerías, ferreterías, tiendas de barrio, etc.) no cuentan con software de gestión porque:
+📍Los sistemas profesionales son caros o complejos.
+📍No saben usar herramientas en la nube.
+📍No tienen conexión a internet constante.
+
+💡 Solución Propuesta
+Un software de escritorio sencillo, local, sin necesidad de internet, con las funciones básicas de inventario:
+📍Agregar productos
+📍Buscar por ID
+📍Eliminar productos
+📍Mostrar la lista completa
+📍Visualización con interfaz gráfica clara
+
+Además, puede ser personalizado con:
+📍Nombre del negocio
+📍Logo
+📍Colores temáticos
+📍Exportación a PDF o Excel
+
+💰 Modelo de Negocio
+1. Licencia Única
+Precio fijo de instalación: $10,000 - Premium $30,000
+📍Incluye instalación, personalización básica y capacitación.
+
+2. Versión Premium
+📍Exportar reportes
+📍Soporte Técnico
+📍Control de acceso (usuarios)
+📍Copia de seguridad automática
+📍Registro de movimientos (log)
+
+🎯 Público Objetivo
+📍Tiendas de barrio
+📍Técnicos de reparación (celulares, electrodomésticos)
+📍Papelerías
+📍Pequeños mayoristas
+📍Emprendedores
+
+🧱 Cómo crecer el modelo (Objetivo para salida al mercado)
+📍Convertirlo en un aplicativo (más adelante)
+📍Creales sus bases de datos para que guarde informacion cuando se cierre
+📍Subirlo a plataformas
+📍Hacer una demo
+
 ## 🧱Explicación de clases y métodos principales
 ```ruby
 📄 Producto.java
@@ -135,6 +180,4 @@ Verás en consola un menú interactivo donde podrás:
 Seleccione una opción:
 _______________________________________
 ```
-## 🎞️Capturas de pantalla o ejemplos de uso (opcional):
-![alt text](image.png)
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/8f6b03b4-1151-4688-a2b4-027b80d5820e)
